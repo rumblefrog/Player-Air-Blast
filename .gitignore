@@ -4,6 +4,9 @@
 *.obj
 *.elf
 
+# Compiled Plugin
+*.smx
+
 # Precompiled Headers
 *.gch
 *.pch
