@@ -25,7 +25,7 @@ SOFTWARE.
 #pragma semicolon 1
 
 #define PLUGIN_AUTHOR "Fishy"
-#define PLUGIN_VERSION "1.00"
+#define PLUGIN_VERSION "1.0.0"
 
 #include <sourcemod>
 #include <morecolors_store>
