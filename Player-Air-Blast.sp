@@ -47,7 +47,7 @@ public Plugin myinfo =
 {
 	name = "Player Air Blast",
 	author = PLUGIN_AUTHOR,
-	description = "Toggle Player Air Blast",
+	description = "A simple plugin that controls the ability to air blast other players as pyro class",
 	version = PLUGIN_VERSION,
 	url = "https://keybase.io/rumblefrog"
 };

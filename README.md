@@ -1,5 +1,5 @@
 # Player Air Blast [![Build Status](https://travis-ci.org/RumbleFrog/Player-Air-Blast.svg?branch=master)](https://travis-ci.org/RumbleFrog/Player-Air-Blast)
-A simple plugin that controls the ability to air blast other players
+A simple plugin that controls the ability to air blast other players as pyro class
 
 # Convars
 
